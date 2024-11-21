@@ -34,7 +34,7 @@ Question 1 Manipulations:
 - Included only the top four causes of collisions
 - Filtered the years, so we can just focus on the trends of the most recent year
 
-We included these manipulations because we wanted to focus on the boroughs that have the highest freqeuency and concentration of accidents. We also included only the top four causes of collisions to analyze the most common causalities behind injuries and collisions in boroughs where most incidents occur. We filtered the years to only include the most recent year because we wanted to provide analyses that are relevant to the current safety goals of New York City and filtering to the recent year provides a current snapshot of the state of serious collision incidents in New York. These manipulations would give us more insight into common issues that can be prevented with proper safety measures and further analysis.
+We included these manipulations because we wanted to focus on the boroughs that have the highest frequency and concentration of accidents. We also included only the top four causes of collisions to analyze the most common causalities behind injuries and collisions in boroughs where most incidents occur. We filtered the years to only include the most recent year because we wanted to provide analyses that are relevant to the current safety goals of New York City and filtering to the recent year provides a current snapshot of the state of serious collision incidents in New York. These manipulations would give us more insight into common issues that can be prevented with proper safety measures and further analysis.
 
 Question 2 Manipulations:
 - Excluded all causes of collisions, except for “Alcohol Involvement”
