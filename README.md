@@ -42,3 +42,5 @@ Question 2 Manipulations:
 We included this manipulation because we were analyzing collision incidents that were due to the contributing cause of Alcohol Involvement. By excluding all other causes, we were able to isolate the alcohol involvement variable to see the direct outcomes of collisions due to drunk driving.
 # Analysis:
 # Tableau Packaged Workbook:
+
+
