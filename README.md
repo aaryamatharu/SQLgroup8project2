@@ -26,19 +26,17 @@ Importance: Drunk driving is a major public safety concern, often linked to nigh
 General: 
 - We excluded the "null" borough. 
 - We also excluded the “Null”, “1”, “80”, and “Unspecified” contributing causes.
-
 These manipulations were made because they were unclear on their meaning and were overall irrelevant to the analyses that we were aiming to conduct. Having these included in our analyses would unnecessarily overpopulate the data and distract from the relevant results we are trying to analyze.
 
 Question 1 Manipulations:
 - Included only the boroughs with the three highest numbers of collision
 - Included only the top four causes of collisions
 - Filtered the years, so we can just focus on the trends of the most recent year
-
-We included these manipulations because we wanted to focus on the boroughs that have the highest frequency and concentration of accidents. We also included only the top four causes of collisions to analyze the most common causalities behind injuries and collisions in boroughs where most incidents occur. We filtered the years to only include the most recent year because we wanted to provide analyses that are relevant to the current safety goals of New York City and filtering to the recent year provides a current snapshot of the state of serious collision incidents in New York. These manipulations would give us more insight into common issues that can be prevented with proper safety measures and further analysis.
+We included these manipulations because we wanted to focus on the boroughs that have the highest freqeuency and concentration of accidents. We also included only the top four causes of collisions to analyze the most common causalities behind injuries and collisions in boroughs where most incidents occur. We filtered the years to only include the most recent year because we wanted to provide analyses that are relevant to the current safety goals of New York City and filtering to the recent year provides a current snapshot of the state of serious collision incidents in New York. These manipulations would give us more insight into common issues that can be prevented with proper safety measures and further analysis.
 
 Question 2 Manipulations:
 - Excluded all causes of collisions, except for “Alcohol Involvement”
-
 We included this manipulation because we were analyzing collision incidents that were due to the contributing cause of Alcohol Involvement. By excluding all other causes, we were able to isolate the alcohol involvement variable to see the direct outcomes of collisions due to drunk driving.
+
 # Analysis:
 # Tableau Packaged Workbook:
